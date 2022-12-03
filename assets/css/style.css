@@ -85,8 +85,8 @@ Version: 1.0.0
 :root {
   --main-color: #1a6ce5;
   --secondary-color: #30373f;
-  --heading-color: #242424;
-  --paragraph-color: #343434;
+  --heading-color: #fff;
+  --paragraph-color: #fff;
   --heading-font: 'Source Serif Pro', sans-serif;
   --body-font: 'Barlow', sans-serif;
   --secondary-font: 'Roboto', sans-serif;
@@ -179,7 +179,7 @@ a i {
   padding: 0 2px; }
 
 img {
-  max-width: 100%; }
+  max-width: 70%; }
 
 ol {
   counter-reset: counter;
@@ -2153,7 +2153,7 @@ ul.wp-block-latest-posts.is-grid.alignwide {
   .navbar-area .nav-container {
     /*background-color: transparent;
     max-width: 97%;*/
-    background-color: #29292ad1;
+    background-color: #060606fa;
     max-width: 100%;
     position: fixed;
     top: inherit; }
@@ -2863,7 +2863,7 @@ ul.wp-block-latest-posts.is-grid.alignwide {
     font-weight: 400; }
 
 .about-video {
-  background: #FCFCFC;
+  background: #000;
   position: relative; }
   .about-video-img {
     background-position: center;
@@ -4043,7 +4043,7 @@ ul.wp-block-latest-posts.is-grid.alignwide {
         height: auto;
         -webkit-box-shadow: 0px 0px 10px #ccc;
         box-shadow: 0px 0px 10px #ccc;
-        background: #fff; }
+        background: #161515; }
         .package-area .swiper-slider.swiper-container .swiper-slide .slider-content {
           position: absolute;
           top: 50%;
@@ -4086,7 +4086,7 @@ ul.wp-block-latest-posts.is-grid.alignwide {
             margin-top: 30px; }
           .package-area .swiper-slider.swiper-container .swiper-slide .slider-content .btn-style-2 {
             font-size: 19px;
-            background: #fff;
+            background: #000;
             color: var(--heading-color);
             padding: 8px;
             font-weight: 600;
@@ -4219,7 +4219,7 @@ ul.wp-block-latest-posts.is-grid.alignwide {
   margin: 100px 0px 0px 0px;
   position: relative; }
   .home-contact .contact-title h1 {
-    background: #fff;
+    /*background: #fff;*/
     -webkit-box-shadow: 0px 0px 15px #ccc;
     box-shadow: 0px 0px 15px #ccc;
     margin: 0 auto;
@@ -7163,9 +7163,9 @@ ul.wp-block-latest-posts.is-grid.alignwide {
       min-height: 415px; } }
 
 .footer-style-2 {
-  background: #EFEFEF; }
+  background: #000; }
   .footer-style-2 .footer-top {
-    background: #EFEFEF;
+    background: #000;
     border-bottom: 1px solid #A0A0A0; }
     .footer-style-2 .footer-top .widget.widget_nav_menu ul li {
       display: inline-block;
@@ -7182,7 +7182,7 @@ ul.wp-block-latest-posts.is-grid.alignwide {
         .footer-style-2 .footer-top .widget.widget_nav_menu ul li a:hover {
           color: var(--main-color) !important; }
   .footer-style-2 .copyright-area {
-    background: #EFEFEF;
+    background: #000;
     font-size: 14px;
     color: var(--heading-color);
     padding: 46px 0px;
