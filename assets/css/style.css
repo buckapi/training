@@ -1088,7 +1088,7 @@ ul.wp-block-latest-posts.is-grid.alignwide {
 
 @media (min-width: 1200px) {
   .container {
-    max-width: 1140px; } }
+    max-width: 980px; } }
 
 @media (min-width: 1400px) {
   .container {
@@ -2880,7 +2880,7 @@ ul.wp-block-latest-posts.is-grid.alignwide {
       font-weight: 600; }
   .about-video-text {
     padding-right: 161px;
-    padding: 50px 0px; }
+    padding: 10px 0px; }
     .about-video-text h3 {
       font-size: 65px;
       font-family: var(--body-font);
@@ -2892,7 +2892,7 @@ ul.wp-block-latest-posts.is-grid.alignwide {
     .about-video-text h6 {
       font-size: 25px;
       font-weight: 600;
-      margin-top: 30px;
+      margin-top: 10px;
       font-family: var(--body-font); }
     .about-video-text p {
       line-height: 25px;
@@ -3845,7 +3845,7 @@ ul.wp-block-latest-posts.is-grid.alignwide {
     font-size: 100px;
     font-weight: 900;
     color: var(--heading-color);
-    margin-top: 82px;
+    /*margin-top: 82px;*/
     margin-bottom: 45px; }
     .home-about .about-title.about-title {
       margin-top: 75px; }

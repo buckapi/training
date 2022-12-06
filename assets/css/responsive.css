@@ -384,7 +384,7 @@
 
     .home-about .about-image .overlay-content {
         font-size: 28px;
-        padding: 35px 30px;
+        padding: 10px 30px;
     }
 
     .home-rolling .rolling-content .rolling-title {
@@ -392,6 +392,7 @@
         margin-top: -30px;
         margin-bottom: 70px;
         line-height: 65px;
+        text-align: center;
     }
 
     .discovery-area .discovery-title h1 {
@@ -1048,6 +1049,7 @@
     .home-about .about-title {
         font-size: 60px;
         text-align: center;
+
     }
     .home-about .about-image .overlay-content {
         font-size: 20px;
@@ -1169,7 +1171,7 @@
     }
 
     .home-about-slider {
-        margin-top: 100px;
+        margin-top: 10px;
     }
 
     .rolling-content {
@@ -1293,7 +1295,7 @@
         margin: 100px 0px;
     }
     .home-about .about-title {
-        margin-top: 70px !important;
+        margin-top: 10px !important;
     }
     .discovery-area .discovery-slider .single-item .item-left .icon i:before {
         margin-left: 6px;
@@ -2363,7 +2365,7 @@
 
     .home-about .about-image .overlay-content {
         line-height: 20px;
-        padding: 25px 15px;
+        padding: 10px 15px;
     }
 
     .home-about .about-image-1 .overlay-content {
