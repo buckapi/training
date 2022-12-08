@@ -63,7 +63,7 @@
 
         $(".about-video-btn").magnificPopup({
             items: {
-                src: "https://www.youtube.com/watch?v=j0hcRDypgmY"
+                src: "https://knov6250.wistia.com/medias/lrvju8jegm"
             },
             type: "iframe",
             iframe: {
@@ -73,10 +73,10 @@
                     '<iframe class="mfp-iframe" frameborder="0" allowfullscreen></iframe>' +
                     "</div>",
                 patterns: {
-                    youtube: {
-                        index: "youtube.com/",
+                    wistia: {
+                        index: "wistia.com/",
                         id: "v=",
-                        src: "//www.youtube.com/embed/j0hcRDypgmY"
+                        src: "//knov6250.wistia.com/medias/lrvju8jegm"
                     }
                 },
                 srcAction: "iframe_src"
@@ -85,7 +85,7 @@
 
         $(".video-btn").magnificPopup({
             items: {
-                src: "https://www.youtube.com/watch?v=j0hcRDypgmY"
+                src: "https://knov6250.wistia.com/medias/lrvju8jegm"
             },
             type: "iframe",
             iframe: {
@@ -95,10 +95,10 @@
                     '<iframe class="mfp-iframe" frameborder="0" allowfullscreen></iframe>' +
                     "</div>",
                 patterns: {
-                    youtube: {
-                        index: "youtube.com/",
+                    wistia: {
+                        index: "wistia.com/",
                         id: "v=",
-                        src: "//www.youtube.com/embed/j0hcRDypgmY"
+                        src: "//knov6250.wistia.com/medias/lrvju8jegm"
                     }
                 },
                 srcAction: "iframe_src"
