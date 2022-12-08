@@ -448,7 +448,7 @@ code {
   padding-bottom: 85px; }
 
 .padding-bottom-88 {
-  padding-bottom: 88px; }
+  padding-bottom: 2px; }
 
 .padding-bottom-90 {
   padding-bottom: 90px; }
@@ -3949,7 +3949,7 @@ ul.wp-block-latest-posts.is-grid.alignwide {
 
 .home-rolling {
   margin-bottom: 12px;
-  margin-top: 135px;
+  margin-top: 35px;
   position: relative; }
   .home-rolling .rolling-content {
     position: relative; }

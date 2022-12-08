@@ -1028,12 +1028,12 @@
     }
 
     .home-rolling .rolling-content .rolling-title {
-        font-size: 65px;
-        line-height: 65px;
+        font-size: 40px;
+        line-height: 40px;
     }
 
     .discovery-area .discovery-title h1 {
-        font-size: 65px;
+        font-size: 40px;
         text-align: center;
     }
 
@@ -1175,7 +1175,7 @@
     }
 
     .rolling-content {
-        margin-bottom: 100px;
+        margin-bottom: 30px;
     }
 
     .shopping-area .width-25 {
@@ -1863,7 +1863,7 @@
         height: auto;
     }
     .discovery-area .discovery-title h1 {
-        font-size: 55px;
+        font-size: 40px;
     }
     .discovery-area .discovery-title .title {
         font-size: 35px;
