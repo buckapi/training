@@ -111,7 +111,8 @@
     }
 
     .banner-area .title1, .banner-area .title2 {
-        font-size: 115px;
+        font-size: 90px;
+    text-align: center;
     }
 
     .banner-area .banner-sm-slider img {
