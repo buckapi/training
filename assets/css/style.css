@@ -2890,13 +2890,13 @@ ul.wp-block-latest-posts.is-grid.alignwide {
         .about-video-text h3 {
           font-size: 60px; } }
     .about-video-text h6 {
-      font-size: 25px;
+      font-size: 28px;
       font-weight: 600;
       margin-top: 10px;
       font-family: var(--body-font); }
     .about-video-text p {
       line-height: 25px;
-      font-size: 18px;
+      font-size: 21px;
       color: var(--paragraph-color);
       font-weight: 400;
       font-family: var(--body-font);
@@ -3961,9 +3961,9 @@ ul.wp-block-latest-posts.is-grid.alignwide {
       line-height: 100px; }
     .home-rolling .rolling-content p {
       color: var(--paragraph-color);
-      font-size: 23px;
+      font-size: 28px;
       letter-spacing: 0.025em;
-      font-weight: 400;
+      font-weight: 600;
       line-height: 35px;
       padding-right: 35px; }
     .home-rolling .rolling-content .btn-style-2 {
@@ -4440,8 +4440,8 @@ ul.wp-block-latest-posts.is-grid.alignwide {
       display: grid; }
       .customer-area .quote-slider .single-item .content p {
         color: var(--paragraph-color);
-        font-size: 18px;
-        font-weight: 400;
+        font-size: 21px;
+        font-weight: 600;
         padding-right: 45px; }
       .customer-area .quote-slider .single-item .content .quote-name {
         font-size: 20px;
@@ -4501,7 +4501,7 @@ ul.wp-block-latest-posts.is-grid.alignwide {
       width: 102px;
       height: 102px;
       border-radius: 50%;
-      line-height: 72px;
+      line-height: 50px;
       text-align: center;
       border: 10px solid var(--heading-color);
       background: var(--main-color);
