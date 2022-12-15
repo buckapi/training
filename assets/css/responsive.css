@@ -168,6 +168,8 @@
         font-size: 125px;
     }
 
+
+
     .banner-style-3 .subtitle {
         margin-top: 16% !important;
     }
@@ -1606,7 +1608,7 @@
         display: none;
     }
     .about-video-text {
-        padding-right: 0px;
+        /*padding-right: 0px;*/
         padding-bottom: 50px;
     }
 
@@ -1868,6 +1870,7 @@
     }
     .discovery-area .discovery-title .title {
         font-size: 35px;
+        line-height: 45px;
     }
     .message-popup-content__img, .location-popup #map, .info-popup-content__img {
         height: 200px;

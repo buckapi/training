@@ -2880,7 +2880,7 @@ ul.wp-block-latest-posts.is-grid.alignwide {
       font-weight: 600; }
   .about-video-text {
     padding-right: 161px;
-    padding: 10px 0px; }
+    padding: 10px; }
     .about-video-text h3 {
       font-size: 65px;
       font-family: var(--body-font);
@@ -4468,10 +4468,13 @@ ul.wp-block-latest-posts.is-grid.alignwide {
 .discovery-area .discovery-title {
   margin-bottom: 58px; }
   .discovery-area .discovery-title .title {
-    font-size: 50px;
+    
+    font-size: 100px;
+      font-weight: 900;
+      margin-bottom: 58px;
+      line-height: 100px;
     color: var(--heading-color);
     font-family: var(--body-font);
-    font-weight: 900;
     letter-spacing: 0.025em;
     margin-bottom: 0px; }
   .discovery-area .discovery-title h1 {
