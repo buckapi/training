@@ -2505,7 +2505,7 @@ select.form-control:focus::-ms-value {
     user-select: none;
     border: 1px solid transparent;
     padding: 1.375rem 0.75rem;
-    font-size: 3rem;
+    font-size: 2rem;
     line-height: 1.5rem;
     border-radius: 1.25rem;
     transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out
