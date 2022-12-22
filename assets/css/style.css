@@ -8877,7 +8877,8 @@ ul.wp-block-latest-posts.is-grid.alignwide {
     padding: 14px 14px 25px 14px;
     -webkit-transition: all 0.3s ease;
     -o-transition: all 0.3s ease;
-    transition: all 0.3s ease; }
+    transition: all 0.3s ease;
+    line-height: 30px; }
     .floating-icon__is i:before {
       font-size: 22px;
       margin-left: 0px; }
