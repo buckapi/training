@@ -8874,7 +8874,7 @@ ul.wp-block-latest-posts.is-grid.alignwide {
   -webkit-box-shadow: -2px 0px 8px 0px rgba(0, 0, 0, 0.16);
   box-shadow: -2px 0px 8px 0px rgba(0, 0, 0, 0.16); }
   .floating-icon__is {
-    padding: 14px 14px;
+    padding: 14px 14px 25px 14px;
     -webkit-transition: all 0.3s ease;
     -o-transition: all 0.3s ease;
     transition: all 0.3s ease; }
