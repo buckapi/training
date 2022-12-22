@@ -179,7 +179,7 @@ a i {
   padding: 0 2px; }
 
 img {
-  max-width: 70%; }
+  max-width: 100%; }
 
 ol {
   counter-reset: counter;
@@ -4433,8 +4433,8 @@ ul.wp-block-latest-posts.is-grid.alignwide {
       box-shadow: 0px 0px 7px #ccc;
       margin-left: 10px; }
       .customer-area .quote-slider .single-item .image img {
-        width: 132px;
-        height: 131px; }
+        width: 100%;
+        height: 100%; }
     .customer-area .quote-slider .single-item .content {
       display: -ms-grid;
       display: grid; }
