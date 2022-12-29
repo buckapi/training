@@ -4026,7 +4026,7 @@ ul.wp-block-latest-posts.is-grid.alignwide {
       margin-top: 20px; }
       @media only screen and (max-width: 1400px) {
         .package-area .top-text h1 {
-          font-size: 80px;
+          font-size: 75px;
           line-height: 70px; } }
     .package-area .top-text .single-item {
       width: 386px;
@@ -4469,7 +4469,7 @@ ul.wp-block-latest-posts.is-grid.alignwide {
   margin-bottom: 58px; }
   .discovery-area .discovery-title .title {
     
-    font-size: 100px;
+    font-size: 75px;
       font-weight: 900;
       margin-bottom: 58px;
       line-height: 100px;
